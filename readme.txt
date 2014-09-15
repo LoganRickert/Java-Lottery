@@ -6,3 +6,5 @@ they get $1,000 or $2,000 respectfully.
 
 If you pick none correct, you lose $1,000. If you have no money left, you
 lose.
+
+This project is CC0 1.0 Universal and is in the public domain.
